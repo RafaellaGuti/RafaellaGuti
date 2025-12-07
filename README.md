@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RafaellaGuti
-- 👀 I’m interested in Data Analytics & Data Science
+- 👀 I’m interested in Data Analytics & Data visualization
 - 🌱 I’m currently learning how to create dashbords using python!
 - 💞️ I’m looking to collaborate on any project in the area of Data analytics!
 - 📫 How to reach me - Contact me via linkedin https://www.linkedin.com/in/rafaellagutierrez/
